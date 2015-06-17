@@ -1,0 +1,164 @@
+﻿aminus, i, m.- prijatelj
+honor, oris, m. - cast
+Filius, ii, m. -sin
+annus, i, m.- godina
+libertinus, i, m. - oslobodjenik
+animus, i, m. - duh
+populus, i, m. - narod
+senex, senis, m. - starac
+as, assis, m. - rimski novac
+iuvenis, is, m. - mladic
+miles, itis, m. - vojnik
+pater, tris, m. - otac
+aerarios, ii, m. - niski porezni obaveznik
+orator, oris, m. - govornik
+dux, ducis, m. - vodja
+imperator, oris, m. - vladar , car
+dies, ei, m. / f. - dan
+philosophia, ae, f. - filozofija
+mors, mortis, f. - smrt
+mensis, is, f. - mjesec
+urbs, Urbis, f. - grad
+origo, inis, f. - podrijetlo, izvor, pocetak
+pars, partis, f. - dio
+religio, onis, f. - poboznost, vjera, religija
+adolescentia, ae, f. - mladost
+caedes, is, f. - ubojstvo
+rapina, ae, f. - pljacka
+Discordia, ae, f. - nesloga
+pecunia, ae, f. - novac
+manus, us, f. - ruka
+puella, ae, f. - djevojka
+cupidas, atis, f. - zelja, pozuda
+eloquentia, ae, f.- rjecitost
+sapientia, ae, f. - mudrost
+domination, onis, f. - vladavina
+lubido, inis, f. - pozuda
+inopia, ae, f. - oskudica
+conscientia, ae, f. - saznanje
+civitas, atis, f. - drzava, grad
+luxuria, ae, f. - raskos
+avaritia, ae, f. - lakomnost
+virtus, utis, f. - vrlina
+oratio, onis, f. - govor
+testamentum, i.n. - oporuka
+tempus, oris, n. - vrijeme
+testimonium, ii, n. - svjedocanstvo
+nomen, inis, n. - ime
+imperium, i, n. - carstvo
+oppidum, i, n. - grad
+aurum, i, n. - zlato
+genus, eris, n. - rod, pleme
+corpur, oris, n. - tijelo
+ingenium, ii, n. - narav , duh
+bellum, i, n. - rat
+scelus, leris, n. - zlocin
+appello,1. - zvati , proglasiti
+numero,1. - brojati
+duro,1. - trajati
+dono,1. - darivati
+rogo,1. - pitati , moliti
+obduro,1. - izdrzati
+basio,1. - ljubiti
+servo,1. - cuvati, sluziti
+creo,1. - stvarati
+firmo,1. - jacati
+incito,1. - poticati
+vexo,1. - opustositi
+servo,1. - sluziti
+amo,1. - voljeti
+aestimo,1. - cijeniti
+video,2. vidi visum - motriti
+debeo,2. ui, itum - morati
+fulgeo,2. fulsi - blistati,sjajiti se
+mordeo,2. momordi,morsum - gristi
+exerceo,2. cui, citum - vjezbati, kretati
+condo, 3. didi, ditum - osnovati
+incipio,3. cepi, ceptum - poceti
+relinquo,3. liqui, lictum - ostaviti
+laedo,3. laesi, laesum - ozlijediti, uvrijediti
+corruo,3. ui, utum - srusiti se
+ulciscor,3. ultus sum - osvetiti se
+divido,3. visi, visum - podjeliti
+detego,3. texi, tectum -otkriti
+duco,3. duxi, ductum - voditi
+desino,3. ii,situm - prestati,okaniti se
+adpeto,3. petivi, petitum - teziti
+requiro,3. sivi, situm - traziti
+capio,3. cepi, captum - osvojiti
+ago,3. egi,actum - voditi
+perdo,3. perdidi,perditum - unistiti
+ineptio ,4. - buncati
+praesum,praeese,praefui - biti na celu
+desum,deesse,defui - nedostajati
+adsum,adesse,affui - biti prisutan
+absum,abesse,afui - biti odsutan
+fio,fieri,factum sum - postati ,dogoditi se
+volo, velle, volui -htjeti, zeljeti
+malo, malle, malui - vise htjeti, vise zeljeti
+nolo, nelle, nolui - ne htjeti, ne zeljeti
+eo,ire,ii,itum - ici
+fero,ferre,tuli,latum - nositi
+do,dare,dedi,datum - davati,dati
+possum, posse, potui - moci
+talis,e -takav
+Romanus,3 - rimski
+antiquissimus,3 - najstariji
+antiquus,3 - star ,drevan
+novus,3 -nov
+alter,a,um - drugi (od dvoje)
+diligens,entis - marljiv
+audax,acis - odvazan
+fortis,e - hrabar
+ingens,entis - golem
+argenteus,3 - srebrn
+bonus,3.- dobar
+nobilis,e - plemenit
+natus,3 - rodjen
+civilis,e - gradjanski
+varius,3 - razlicit
+alieni,3 - strain,tudji
+gratus,3 - drag ,mio
+subdolus,3 - lukav,podmukao
+profusus,3 - proliven
+ardens,entis - goruc
+ferox,ocis - bijesan
+pessimus,3. - najgori
+omnis,e - svaki , sav
+pravus,3. - opak
+malus,3. -zao
+miser,era,erum - blijedan
+invitus,3 - protiv svoje volje
+destinatus,3 - odlucan
+nullus,3 - nijedan
+a/ab - od , s (AB)
+etiam - takodjer
+quisque - svatko
+autem - a , pak , no , ali
+aut - ili
+solus - samo
+nunc -sad
+atque - i, pa , kao i
+apud - kod (A)
+usque - sve do, do
+ad - k, na, do, za
+enim - naime
+sic - tako
+quia - jer, sto
+ex - iz
+sed - ali
+ac - i
+postea - zatim,potom
+pro - za
+maxime -najvise
+ibi - ondje
+satis - dosta
+parum - premalo
+magis -vise
+tamen - ipak
+valde - veoma ,vrlo
+iam - vec
+nec - niti
+vale,valete - zdravo!
+at - ali
+tu - ti
