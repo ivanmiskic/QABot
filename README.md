@@ -1,8 +1,7 @@
 # QABot
-Bot for translations
+Loads given input from txt file with questions and answers.Randomly picks questions.
+
+Example input: question - answer
 
 ![alt tag](https://github.com/kebapmanager/QABot/blob/master/Showoff.png)
-
-Example input:
-origo, inis, f. - podrijetlo, izvor, pocetak
 
